@@ -1,0 +1,7 @@
+passwords.txt
+
+*.class
+
+log/*.log
+
+node_modules/
